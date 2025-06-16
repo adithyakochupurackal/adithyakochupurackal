@@ -1,100 +1,77 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0FF0FC&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Adithya+Kochupurackal;Agentic+AI+Engineer+%7C+Python+Expert+%7C+LLM+%26+RAG+Specialist;Building+the+future+of+autonomous+AI+systems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0FF0FC&center=true&vCenter=true&width=800&lines=👋+Hi,+I’m+Adithya+Kochupurackal;Agentic+AI+Engineer+|+Python+Expert+|+LLM+%26+RAG+Specialist;Building+Autonomous+AI+Systems!" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%2300FFF0.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-%23FF00C8.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20Expert-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20%26%20RAG-%23FFD43B.svg?style=for-the-badge&logo=OpenAI&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pro%20Coder-%23000000.svg?style=for-the-badge&logo=code&logoColor=white"/>
+  <a href="https://adithyakochupurackal.github.io/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄-Resume-blue?style=for-the-badge" alt="Resume"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adithya-krishna-in" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aadithyakochupurackal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 # 🧠 About Me
 
-I'm an **Agentic AI Engineer** and **Python Expert** passionate about building the next generation of autonomous, agentic, and reasoning-driven AI systems. My expertise spans:
-- 🦾 Agentic AI architectures (multi-agent, tool-using, self-improving systems)
-- 🐍 Advanced Python (async, distributed, data, ML, web)
-- 🤖 LLMs (OpenAI, Anthropic, open-source, fine-tuning, prompt engineering)
-- 🔎 Retrieval-Augmented Generation (RAG) and knowledge pipelines
-- 🧩 Pilelikes, vector DBs, embeddings, and scalable data infra
-- 🛠️ Building robust, production-grade AI/ML systems
+I’m **Adithya Krishna**, an **Agentic AI Engineer & Python Expert** specializing in:
+
+- 🦾 **Agentic AI** (multi-agent, tool-using, self-improving systems)  
+- 🤖 **LLM & RAG** pipelines (OpenAI, Anthropic, fine‑tuning, Pinecone/FAISS)  
+- 🐍 **Advanced Python** (async, distributed, data, ML, FastAPI)  
+- 🧩 **Vector DBs** & knowledge infra (Chroma, Weaviate, Qdrant)  
+- 🛠️ Building **production‑grade** AI/ML services  
 
 ---
 
-# 🚀 What I Do
+# 🚀 Key Projects
 
-- **Agentic AI Engineering:**
-  - Design, build, and deploy agentic systems (multi-agent, tool-using, self-improving)
-  - Integrate LLMs with tools, APIs, and real-world data
-  - Architect autonomous workflows and reasoning chains
-
-- **LLM & RAG:**
-  - Fine-tune, prompt, and orchestrate LLMs for real-world tasks
-  - Build RAG pipelines with vector DBs (Pinecone, Weaviate, Chroma, FAISS)
-  - Optimize retrieval, chunking, and context injection for high accuracy
-
-- **Python Engineering:**
-  - Write clean, scalable, async Python for AI, data, and web
-  - Build APIs, microservices, and distributed systems
-  - Automate everything with scripts, bots, and pipelines
-
-- **Pro Coding:**
-  - Ship production code, fast
-  - Open source contributor & code reviewer
-  - Mentor and lead engineering teams
+| Project                                    | Tech & Highlights                                                                                   | Link                                                  |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| **Attendance Management System**           | FaceNet-based facial recognition, FastAPI, MongoDB, real‑time webcam capture                        | [Repo](https://github.com/adithyakochupurackal/attendance-management) |
+| **AI Career Recommendation System**        | Flask + React frontend, GPT‑3.5 backend, personalized career paths, data‑driven scoring             | [Repo](https://github.com/adithyakochupurackal/career-recommender)     |
+| **Library Management System**              | Django, PostgreSQL, role‑based auth, REST APIs, admin/user dashboards                                | [Repo](https://github.com/adithyakochupurackal/library-management)      |
+| **Sweet Delights Bakery**                  | React + MUI, Tailwind CSS, serverless backend, deploy on Vercel                                      | [Repo](https://github.com/adithyakochupurackal/sweet-delights-bakery)    |
+| **Job Application Agent** *(in progress)*  | Python, Azure OpenAI, multi‑step dialog flows, resume parsing, auto‑app submissions                  | —                                                     |
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/LLMs-OpenAI%2C%20Anthropic%2C%20Llama-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Pinecone%2C%20Chroma%2C%20FAISS-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs-Pinecone%2C%20Weaviate%2C%20Qdrant-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Pinecone%2CFAISS%2CChroma-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
-
----
-
-# 🌟 Featured Projects
-
-- [🍰 Sweet Delights Bakery](https://github.com/adithyakochupurackal/sweet-delights-bakery): Modern bakery web app with React, MUI, and agentic design patterns.
-- [🔎 RAG Pipeline Demo](#): End-to-end retrieval-augmented generation pipeline with OpenAI, Pinecone, and FastAPI. *(Coming soon!)*
-- [🤖 Agentic AI Playground](#): Multi-agent LLM orchestration and tool-use demo. *(Coming soon!)*
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyakochupurackal&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakochupurackal&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyakochupurackal&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakochupurackal&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Get In Touch
 
-<p align="center">
-  <a href="https://linkedin.com/in/adithyakochupurackal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:adithyakochupurackal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/adithyakochupurackal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://adithyakochupurackal.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
+- 🔗 **LinkedIn:** [linkedin.com/in/adithya-krishna-in](https://www.linkedin.com/in/adithya-krishna-in)  
+- 📧 **Email:** aadithyakochupurackal@gmail.com  
+- 📱 **Phone:** +91 97462 78795  
 
----
-
-<p align="center">
-  <b>Let's build the future of AI together!</b>
-</p> 
+> “Building the future of autonomous AI systems—let’s connect and collaborate!”  
