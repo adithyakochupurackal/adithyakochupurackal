@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0FF0FC&center=true&vCenter=true&width=800&lines=👋+Hi,+I’m+Adithya+Kochupurackal;Agentic+AI+Engineer+|+Python+Expert+|+LLM+%26+RAG+Specialist;Building+Autonomous+AI+Systems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0FF0FC&center=true&width=800&lines=👋+Hi,+I’m+Adithya+Kochupurackal;Agentic+AI+Engineer+%7C+Python+Expert+%7C+LLM+%26+RAG+Specialist;Building+Autonomous+AI+Systems!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 
 I’m **Adithya Krishna**, an **Agentic AI Engineer & Python Expert** specializing in:
 
-- 🦾 **Agentic AI** (multi-agent, tool-using, self-improving systems)  
-- 🤖 **LLM & RAG** pipelines (OpenAI, Anthropic, fine-tuning, Pinecone/FAISS)  
+- 🦾 **Agentic AI** (multi-agent, tool‑using, self‑improving systems)  
+- 🤖 **LLM & RAG** pipelines (OpenAI, Anthropic, fine‑tuning, Pinecone/FAISS)  
 - 🐍 **Advanced Python** (async, distributed, data, ML, FastAPI)  
 - ☕ **Java & Spring Boot** (enterprise backends, microservices)  
 - 🧩 **Vector DBs** & knowledge infra (Chroma, Weaviate, Qdrant)  
-- 🛠️ Building **production-grade** AI/ML services  
+- 🛠️ Building **production‑grade** AI/ML services  
 
 ---
 
@@ -37,11 +37,11 @@ I’m **Adithya Krishna**, an **Agentic AI Engineer & Python Expert** specializi
 
 | Project                                    | Tech & Highlights                                                                                                              | Link                                                                 |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Attendance Management System**           | FaceNet facial recognition, FastAPI, MongoDB, real-time webcam capture                                                          | [github.com/adithyakochupurackal/attendance-management](https://github.com/adithyakochupurackal/attendance-management) |
-| **AI Career Recommendation System**        | Flask + React, GPT-3.5, personalized career paths                                                                              | [github.com/adithyakochupurackal/career-recommender](https://github.com/adithyakochupurackal/career-recommender)     |
-| **Library Management System**              | Django, PostgreSQL, role-based auth, REST APIs, admin/user dashboards                                                           | [github.com/adithyakochupurackal/library-management](https://github.com/adithyakochupurackal/library-management)      |
-| **Sweet Delights Bakery**                  | React + MUI + Tailwind, serverless backend (Node.js), deployed on Vercel                                                        | [github.com/adithyakochupurackal/sweet-delights-bakery](https://github.com/adithyakochupurackal/sweet-delights-bakery)    |
-| **Job Application Agent** *(in progress)*  | Python, Azure OpenAI, multi-step dialog flows, resume parsing, auto-apply                                                        | —                                                                    |
+| **Attendance Management System**           | FaceNet facial recognition, FastAPI, MongoDB, real‑time webcam capture                                                          | [attendance-management](https://github.com/adithyakochupurackal/attendance-management) |
+| **AI Career Recommendation System**        | Flask + React, GPT‑3.5, personalized career paths                                                                              | [career-recommender](https://github.com/adithyakochupurackal/career-recommender)     |
+| **Library Management System**              | Django, PostgreSQL, role‑based auth, REST APIs, admin/user dashboards                                                           | [library-management](https://github.com/adithyakochupurackal/library-management)      |
+| **Sweet Delights Bakery**                  | React + MUI + Tailwind, serverless backend (Node.js), deployed on Vercel                                                        | [sweet-delights-bakery](https://github.com/adithyakochupurackal/sweet-delights-bakery) |
+| **Job Application Agent** *(in progress)*  | Python, Azure OpenAI, multi‑step dialog flows, resume parsing, auto‑apply                                                       | —                                                                    |
 
 ---
 
@@ -82,6 +82,6 @@ I’m **Adithya Krishna**, an **Agentic AI Engineer & Python Expert** specializi
 - 🔗 **Résumé:** [resume.pdf](https://adithyakochupurackal.github.io/resume.pdf)  
 - 🔗 **LinkedIn:** [linkedin.com/in/adithya-krishna-in](https://www.linkedin.com/in/adithya-krishna-in)  
 - 📧 **Email:** aadithyakochupurackal@gmail.com  
-- 📱 **Phone:** +91 97462 78795  
+- 📱 **Phone:** +91 97462 78795  
 
 > “Building the future of autonomous AI systems—let’s connect and collaborate!”  
